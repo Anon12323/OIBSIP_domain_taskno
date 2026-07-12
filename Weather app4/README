@@ -1,0 +1,29 @@
+## 2. Weather App 
+
+
+## Objective
+A comprehensive weather application that fetches current weather conditions and 5-day forecasts for any city using the OpenWeatherMap API. The application provides real-time weather data with an intuitive graphical interface.
+
+## Features
+- Current weather display (temperature, humidity, wind, pressure)
+- 5-day weather forecast
+- Weather icons (emoji-based)
+- City search with Enter key support
+- Recent cities dropdown (saves last 5 searches)
+- Data caching to reduce API calls
+- Live clock display
+- Dark theme UI
+- Error handling for invalid cities and network issues
+
+## Technologies Used
+- **Python 3.x**
+- **Tkinter** - GUI framework
+- **Requests** - API integration
+- **JSON** - Data caching
+- **DateTime** - Timestamp management
+
+## Project Structure
+Weather App/
+├── weather_core.py 
+├── main.py 
+└── weather_data.json # Cache storage (auto-created)
