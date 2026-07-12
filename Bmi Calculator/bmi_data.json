@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-07-07 17:48:37",
+    "name": "aa",
+    "age": 21,
+    "gender": "Male",
+    "weight": 76.0,
+    "height": 1.75,
+    "bmi": 24.82,
+    "category": "Normal"
+  },
+  {
+    "date": "2026-07-07 18:14:31",
+    "name": "aa",
+    "age": 23,
+    "gender": "Male",
+    "weight": 56.0,
+    "height": 1.5,
+    "bmi": 24.89,
+    "category": "Normal"
+  },
+  {
+    "date": "2026-07-07 18:27:44",
+    "name": "asa",
+    "age": 34,
+    "gender": "Male",
+    "weight": 67.0,
+    "height": 1.6,
+    "bmi": 26.17,
+    "category": "Overweight"
+  }
+]
