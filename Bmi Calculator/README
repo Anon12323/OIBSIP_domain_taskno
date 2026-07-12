@@ -1,0 +1,27 @@
+# BMI Calculator
+
+## Objective
+A comprehensive Body Mass Index (BMI) calculator application with data storage, history tracking, and visualization capabilities. The application helps users monitor their BMI over time and provides health recommendations based on their BMI category.
+
+## Features
+- Calculate BMI using weight (kg) and height (m)
+- BMI category classification with health advice
+- Visual BMI scale with color-coded segments
+- Data persistence using JSON storage
+- History tracking with delete functionality
+- Statistics and trend analysis
+- Graphical visualization using Matplotlib
+- Multi-tab interface (Calculator, History, Trends)
+
+## Technologies Used
+- **Python 3.x**
+- **Tkinter** - GUI framework
+- **Matplotlib** - Data visualization
+- **JSON** - Data persistence
+- **DateTime** - Timestamp management
+
+## Project Structure
+BMI Calculator/
+├── bmi_core.py # Core logic and data management
+├── main.py # GUI application
+└── bmi_data.json # Data storage (auto-created)
