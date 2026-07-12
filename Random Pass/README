@@ -1,0 +1,25 @@
+## 3. Random Password Generator 
+
+## Objective
+A secure password generator application that creates strong, random passwords with customizable options. The application includes password strength evaluation and clipboard integration for easy copying.
+
+## Features
+- Customizable password length (4-32 characters)
+- Character type selection (Letters, Numbers, Symbols)
+- Password strength analysis
+- Auto-copy to clipboard
+- Exclude similar characters option (i, l, 1, O, 0)
+- Visual strength indicator (Weak/Moderate/Strong)
+- One-click copy functionality
+- Modern, intuitive GUI
+
+## Technologies Used
+- **Python 3.x**
+- **Tkinter** - GUI framework
+- **Random** - Password generation
+- **String** - Character sets
+- **Pyperclip** - Clipboard operations
+
+## Project Structure
+Password Generator/
+└── randompass.py 
